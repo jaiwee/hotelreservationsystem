@@ -1,2 +1,2 @@
 # hotelreservationsystem
-IS2103 Paie Project
+IS2103 Pair Project
