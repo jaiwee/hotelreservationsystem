@@ -1,0 +1,14 @@
+gnore NetBeans specific files
+nbproject/private/
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+nbproject/private/
+nbproject/project.properties
+
+# Build output directories
+# build/
+# dist/
+#
+# # Logs
+# *.log
+#
